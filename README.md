@@ -1,5 +1,7 @@
 # code-refactor
 
+URL: https://jacksonfarren.github.io/Horiseon-refactor/
+
 ## User Story
 
 ```
@@ -23,3 +25,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+<img src="assets\images\Working-site.jpg"/>
